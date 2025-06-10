@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\DiffBetRefandOut\DiffBetRefandOut\bin\Debug\net8.0\DiffBetRefandOut.exe
+C:\Users\USER\source\repos\DiffBetRefandOut\DiffBetRefandOut\bin\Debug\net8.0\DiffBetRefandOut.deps.json
+C:\Users\USER\source\repos\DiffBetRefandOut\DiffBetRefandOut\bin\Debug\net8.0\DiffBetRefandOut.runtimeconfig.json
+C:\Users\USER\source\repos\DiffBetRefandOut\DiffBetRefandOut\bin\Debug\net8.0\DiffBetRefandOut.dll
+C:\Users\USER\source\repos\DiffBetRefandOut\DiffBetRefandOut\bin\Debug\net8.0\DiffBetRefandOut.pdb
+C:\Users\USER\source\repos\DiffBetRefandOut\DiffBetRefandOut\obj\Debug\net8.0\DiffBetRefandOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\DiffBetRefandOut\DiffBetRefandOut\obj\Debug\net8.0\DiffBetRefandOut.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\DiffBetRefandOut\DiffBetRefandOut\obj\Debug\net8.0\DiffBetRefandOut.AssemblyInfo.cs
+C:\Users\USER\source\repos\DiffBetRefandOut\DiffBetRefandOut\obj\Debug\net8.0\DiffBetRefandOut.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DiffBetRefandOut\DiffBetRefandOut\obj\Debug\net8.0\DiffBetRefandOut.sourcelink.json
+C:\Users\USER\source\repos\DiffBetRefandOut\DiffBetRefandOut\obj\Debug\net8.0\DiffBetRefandOut.dll
+C:\Users\USER\source\repos\DiffBetRefandOut\DiffBetRefandOut\obj\Debug\net8.0\refint\DiffBetRefandOut.dll
+C:\Users\USER\source\repos\DiffBetRefandOut\DiffBetRefandOut\obj\Debug\net8.0\DiffBetRefandOut.pdb
+C:\Users\USER\source\repos\DiffBetRefandOut\DiffBetRefandOut\obj\Debug\net8.0\DiffBetRefandOut.genruntimeconfig.cache
+C:\Users\USER\source\repos\DiffBetRefandOut\DiffBetRefandOut\obj\Debug\net8.0\ref\DiffBetRefandOut.dll
